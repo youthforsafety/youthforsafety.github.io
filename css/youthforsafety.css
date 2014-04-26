@@ -178,4 +178,10 @@ body {
   }
 }
 
+@media (max-width : 500px) {
+  h1 {
+    color: black;
+  }
+}
+
 
