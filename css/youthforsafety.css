@@ -28,14 +28,12 @@ html,
 body {
   height: 100%;
   /*background-color: #fff;*/
-  background-color: #64A1DA;
+  /*background-color: #64A1DA;*/
   /*background-image:url('../images/refinedbckgy4s.jpg');*/
   background-image:url('../images/testHD3.jpg');
   background-size: cover;
-    background-repeat: no-repeat;
+  background-repeat: no-repeat;
   /*#64A1DA blue*/
-  /*#ECF214
-  #ffff00*/
 }
 body {
   color: #fff;
