@@ -30,10 +30,18 @@ body {
   /*background-color: #fff;*/
   /*background-color: #64A1DA;*/
   /*background-image:url('../images/refinedbckgy4s.jpg');*/
-  background-image:url('../images/testHD3.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
   /*#64A1DA blue*/
+
+  /*background-image:url('../images/testHD3.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;*/
+
+  background: url('../images/testHD3.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
 }
 body {
   color: #fff;
