@@ -165,7 +165,7 @@ img.grayscale {
 .blurb .lead {
   /*color:#FFDE00;*/
   /*color:#000080;*/
-  font-size: 35px;
+  font-size: 25px;
 }
 
 .blurb .panel {
@@ -216,16 +216,12 @@ img.grayscale {
 }
 
 .callout .lead {
-  /*color:#FFDE00;*/
-  /*color:#000080;*/
-  font-size: 35px;
+  font-size: 25px;
 }
-
 
 .pugs1 {
   vertical-align: middle;
   width:100%;
-  /*padding-top:4%;*/
   text-align:center;
 }
 
