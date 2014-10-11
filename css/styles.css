@@ -245,6 +245,17 @@ img.grayscale {
   margin: 10px;
 }
 
+.item {
+  /*height: 500px;*/
+}
+
+/*.carousel {
+  img {
+    height: 100%;
+    width: 100%;
+  }
+}*/
+
 footer {
   padding: 100px 0;
 }
