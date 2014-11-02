@@ -111,15 +111,15 @@ img.grayscale {
 }
 
 .header .lead {
-  color:#d46054;
-  font-size:25px;
+  font-size:33px;
 }
 
 .header {
   height: 100%;
   width: 100%;
   padding-top:15%;
-  background: url('../images/1.jpg') no-repeat center center fixed; 
+  /*background: url('../images/1.jpg') no-repeat center center fixed; */
+  background: url('../images/y4sb.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -134,8 +134,8 @@ img.grayscale {
 }
 
 .alt .lead {
-  /*color: #3B0496;*/
-  color: red;
+  /*color: #097054;*/
+  color: black;
 }
 
 .alt.affix {
@@ -208,7 +208,7 @@ img.grayscale {
   height: 100%;
   width: 100%;
   background-color:#fefefe;
-  background: url('../images/y4sb.jpg') no-repeat center center fixed;
+  background: url('../images/test44.png') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
